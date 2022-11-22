@@ -88,21 +88,21 @@ void soapysdrClose()
 
 int soapysdrGetGain()
 {
-	return 0;
+  return 0;
 }
 
 int soapysdrGetMaxGain()
 {
-	return 0;
+  return 0;
 }
 
 double soapysdrGetGainDb(int step)
 {
-	return 0.0;
+  return 0.0;
 }
 
 int soapysdrSetGain(int step)
 {
-    return 0;
+  return 0;
 }
 
